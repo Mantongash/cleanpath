@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-clearpath-dev-50305-authRole",
+      "UnauthRoleArn": "arn:aws:iam::908459190585:role/amplify-clearpath-dev-50305-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::908459190585:role/amplify-clearpath-dev-50305-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-clearpath-dev-50305-deployment",
+      "UnauthRoleName": "amplify-clearpath-dev-50305-unauthRole",
+      "StackName": "amplify-clearpath-dev-50305",
+      "StackId": "arn:aws:cloudformation:us-east-1:908459190585:stack/amplify-clearpath-dev-50305/83ea9d70-50e4-11ed-b49f-1258446b72c3",
+      "AmplifyAppId": "d15k01x1uo0wa"
+    },
+    "categories": {
+      "api": {
+        "clearpath": {}
+      }
+    }
+  }
+}
