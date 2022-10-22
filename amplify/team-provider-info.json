@@ -14,6 +14,27 @@
     "categories": {
       "api": {
         "clearpath": {}
+      },
+      "auth": {
+        "clearpathf7599154": {}
+      }
+    }
+  },
+  "cleanpath": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-clearpath-cleanpath-103406-authRole",
+      "UnauthRoleArn": "arn:aws:iam::242338441914:role/amplify-clearpath-cleanpath-103406-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::242338441914:role/amplify-clearpath-cleanpath-103406-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-clearpath-cleanpath-103406-deployment",
+      "UnauthRoleName": "amplify-clearpath-cleanpath-103406-unauthRole",
+      "StackName": "amplify-clearpath-cleanpath-103406",
+      "StackId": "arn:aws:cloudformation:us-east-1:242338441914:stack/amplify-clearpath-cleanpath-103406/ee39da90-51db-11ed-b0d4-0e5cb4e41209",
+      "AmplifyAppId": "d321kcxuclx548"
+    },
+    "categories": {
+      "auth": {
+        "clearpathf7599154": {}
       }
     }
   }
